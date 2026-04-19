@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-18T20:43:49.349118",
+  "updated_at": "2026-04-19T03:29:58.648932",
   "article_count": 96,
   "articles": [
     {
@@ -113,17 +113,6 @@
       "score": 7.4
     },
     {
-      "id": "6b7578d5a547a7d66de836ec953914fb",
-      "title": "OpenAI’s former Sora boss is leaving",
-      "date": "2026-04-17T17:13:25-04:00",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
-      "summary": "Last month, OpenAI gave up on its Sora video generation tool, and on Friday, the Sora team’s leader, Bill Peebles, announced that he is leaving the company OpenAI has been shifting its priorities as part of an effort to avoid “side quests,” and Peebles’ departure is just one of many recent changes as the company moves to focus more on coding and enterprise use As part of a note Peebles posted on X, he said:\n\nI am immensely grateful to Sam, Mark, Aditya and Jakub for fostering a research environment that allowed us to pursue ideas off-the-beaten path from the company’s mainline roadmap It’s tempting in life to mode collapse to the most important thing, but cultivating entropy is the only way for a research lab to thrive long-term, and Sam deeply understands this",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
-      "source": "AI | The Verge",
-      "full_text": "Last month, OpenAI gave up on its Sora video generation tool, and on Friday, the Sora team’s leader, Bill Peebles, announced that he is leaving the company. OpenAI has been shifting its priorities as part of an effort to avoid “side quests,” and Peebles’ departure is just one of many recent changes as the company moves to focus more on coding and enterprise use.\n\nAs part of a note Peebles posted on X, he said:\n\nI am immensely grateful to Sam, Mark, Aditya and Jakub for fostering a research environment that allowed us to pursue ideas off-the-beaten path from the company’s mainline roadmap. It’s tempting in life to mode collapse to the most important thing, but cultivating entropy is the only way for a research lab to thrive long-term, and Sam deeply understands this. Sora was a project that could not have happened anywhere but OpenAI, and I will always deeply love this place for that.\n\nKevin Weil, who was the company’s VP of AI for Science and was formerly its chief product officer, is also departing, saying that Friday is his last day. He said in a post on X that the group is “being decentralized into other research teams.” OpenAI’s Prism, a recently-announced research-focused “workspace for scientists” that Weil was heading up, is being sunsetted, and OpenAI’s plan is to fold its capabilities into the Codex desktop app, according to Wired.",
-      "score": 7.2
-    },
-    {
       "id": "00a19a9b47a60f8908392abaae8ed9fd",
       "title": "The UK Launches Its $675 Million Sovereign AI Fund",
       "date": "Thu, 16 Apr 2026 17:30:00 +0000",
@@ -221,6 +210,17 @@
       "source": "Feed: Artificial Intelligence Latest",
       "full_text": "AI Could Democratize One of Tech's Most Valuable Resources\n\nAI is making it easier to design chips and optimize software for different silicon. Some startups envision a revolution in chipmaking.\n\nThis AI Button Wearable From Ex-Apple Engineers Looks Like an iPod Shuffle\n\nTwo former Apple Vision Pro developers made an AI wearable that only listens when you tap it. They hope to win where other AI gadgets have fumbled: privacy.\n\nArm’s CEO Insists the Market Needs His New CPU. It Could Piss Everyone Off\n\nArm just confirmed the rumors: It’s producing its own chip for the first time. CEO Rene Haas explains why this won’t alienate the many chipmakers who license the company’s designs.\n\nThere Aren’t a Lot of Reasons to Get Excited About a New Amazon Smartphone\n\nThe company is reportedly building a new AI-powered mobile device. If Amazon follows through on the plan, experts warn it would be next to impossible to break into a crowded market.\n\nCan Modular Phone Accessories Finally Evolve Beyond MagSafe?\n\nTrue modular smartphone hardware never went mainstream. That could change as phone makers look beyond magnets.\n\nGamers Hate Nvidia's DLSS 5. Developers Aren’t Crazy About It, Either\n\nNvidia’s new AI upscaling gaming technology struck gamers as uncanny and off-putting. Developers don't seem to like it, either, but it could be “the default” in a few years.\n\nCursor Launches a New AI Agent Experience to Take On Claude Code and Codex\n\nAs Cursor launches the next generation of its product, the AI coding startup has to compete with OpenAI and Anthropic more directly than ever.\n\n15 Design-Forward DIY Tools Worth Upgrading to This Year\n\nHack your hardware with these top picks for home-improvement heaven.\n\nThe iPhone Gets a D– for Repairability\n\nIt’s a better rating than the company has gotten from repairability experts before, at least. Samsung is second worst with a D.\n\nTop Corsair Discount Code: Up to 50% Off for April 2026\n\nUpgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals.\n\nYou Can Soon Buy a $4,370 Humanoid Robot on AliExpress\n\nUnitree is bringing its R1 to international markets. It arrives with some aerobatic capabilities and an entry-level price, but the question of what you'd actually do with it remains open.",
       "score": 6.6
+    },
+    {
+      "id": "6b7578d5a547a7d66de836ec953914fb",
+      "title": "OpenAI’s former Sora boss is leaving",
+      "date": "2026-04-17T17:13:25-04:00",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
+      "summary": "Last month, OpenAI gave up on its Sora video generation tool, and on Friday, the Sora team’s leader, Bill Peebles, announced that he is leaving the company OpenAI has been shifting its priorities as part of an effort to avoid “side quests,” and Peebles’ departure is just one of many recent changes as the company moves to focus more on coding and enterprise use As part of a note Peebles posted on X, he said:\n\nI am immensely grateful to Sam, Mark, Aditya and Jakub for fostering a research environment that allowed us to pursue ideas off-the-beaten path from the company’s mainline roadmap It’s tempting in life to mode collapse to the most important thing, but cultivating entropy is the only way for a research lab to thrive long-term, and Sam deeply understands this",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
+      "source": "AI | The Verge",
+      "full_text": "Last month, OpenAI gave up on its Sora video generation tool, and on Friday, the Sora team’s leader, Bill Peebles, announced that he is leaving the company. OpenAI has been shifting its priorities as part of an effort to avoid “side quests,” and Peebles’ departure is just one of many recent changes as the company moves to focus more on coding and enterprise use.\n\nAs part of a note Peebles posted on X, he said:\n\nI am immensely grateful to Sam, Mark, Aditya and Jakub for fostering a research environment that allowed us to pursue ideas off-the-beaten path from the company’s mainline roadmap. It’s tempting in life to mode collapse to the most important thing, but cultivating entropy is the only way for a research lab to thrive long-term, and Sam deeply understands this. Sora was a project that could not have happened anywhere but OpenAI, and I will always deeply love this place for that.\n\nKevin Weil, who was the company’s VP of AI for Science and was formerly its chief product officer, is also departing, saying that Friday is his last day. He said in a post on X that the group is “being decentralized into other research teams.” OpenAI’s Prism, a recently-announced research-focused “workspace for scientists” that Weil was heading up, is being sunsetted, and OpenAI’s plan is to fold its capabilities into the Codex desktop app, according to Wired.",
+      "score": 6.4
     },
     {
       "id": "48603d0ac66de5d7cd4d7648a5b4b684",
