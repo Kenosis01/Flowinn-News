@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-20T22:01:00.115448",
-  "article_count": 429,
+  "updated_at": "2026-05-21T04:15:09.880807",
+  "article_count": 431,
   "articles": [
     {
       "id": "e3208dde363fdcf39b97031143a9a18f",
@@ -927,17 +927,6 @@
       "score": 6.1
     },
     {
-      "id": "3e150cf9fcd81e6d52d4c24976a3fc86",
-      "title": "Demis Hassabis said this might be the ‘foothills of the singularity.’ What?",
-      "date": "2026-05-19T18:16:02-04:00",
-      "url": "https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis",
-      "summary": "After a couple of hours of apps and itineraries, Google’s big AI presentation turned philosophical After a couple of hours of apps and itineraries, Google’s big AI presentation turned philosophical",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Demis_GDM.OMNI_.AI-in-Real-World_3.jpg?quality=90&strip=all&crop=0%2C19.091304550468%2C100%2C61.817390899063&w=1200",
-      "source": "AI | The Verge",
-      "full_text": "After a couple of hours of apps and itineraries, Google’s big AI presentation turned philosophical.\n\nAfter a couple of hours of apps and itineraries, Google’s big AI presentation turned philosophical.",
-      "score": 6.1
-    },
-    {
       "id": "6b6ab3f38b45e0c609bbd6597ef41617",
       "title": "The Internet can't stop watching Figure AI's humanoid robots handling packages",
       "date": "Wed, 20 May 2026 11:00:34 +0000",
@@ -1488,6 +1477,28 @@
       "score": 5.5
     },
     {
+      "id": "1b09ae4562bd1133f97735ce8a8c77ae",
+      "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
+      "date": "Wed, 20 May 2026 22:26:08 +0000",
+      "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+      "summary": "Elon Musk’s xAI lost $6 4 billion from operations on just $3 2 billion in revenue in 2025, according to SpaceX’s IPO filings And the losses are poised to grow",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259661359.jpg?w=1024",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "full_text": "Elon Musk’s xAI lost $6.4 billion from operations on just $3.2 billion in revenue in 2025, according to SpaceX’s IPO filings. And the losses are poised to grow. SpaceX’s filing reveals plans to scale Grok to “multiple trillions of parameters,” a dramatic boost that will likely require significant additional compute spend.\n\nElon Musk merged his AI company xAI — which had previously acquired his social media platform X (formerly Twitter) — with his rocket and satellite company SpaceX in February before announcing that he’d take the combined company public this year. While AI competitors OpenAI and Anthropic are also eyeing public debuts in 2026, SpaceX’s is expected to be one of the largest in history with a potential $1.75 trillion valuation.\n\nThe filing marks the first public glimpses into xAI, and therefore X’s, financials. In 2024, xAI recorded a loss of $1.56 billion on $2.62 billion in revenue. By 2025, losses had ballooned to $6.4 billion on $3.2 billion, meaning the gap between what xAI earns and spends is widening. Meanwhile, competitor (and customer) Anthropic reportedly expects a 130% revenue jump to $10.9 billion in the second quarter, leading to its first operating profit.\n\nThe jump in revenue from 2024 to 2025 came in large part from “AI solutions and infrastructure revenue” totaling $465 million, which includes $365 million in X and Grok subscription revenue and $88 million in data licensing. An additional $116 million came from advertising.\n\nAI segment capital expenditures climbed from $12.7 billion in 2025 to $7.7 billion in the first quarter of 2026 alone. That’s an annualized capex run rate of about $30.8 billion, more than doubling year-over-year.\n\nSo far, that investment has resulted in growing, but still limited, user numbers. Per the filing, SpaceX recorded 117 million monthly active users (MAUs) for Grok AI features as of March 2026, out of 550 million total MAUs across Grok and X combined. That implies only one-fifth of the combined ecosystem is actively using Grok AI features.\n\nStill, SpaceX intends to soldier on with Grok; its next-generation AI is expected to scale to “multiple trillions of parameters,” which the filing describes as a “step change in reasoning in depth and overall intelligence.” It’s an ambitious target, and one that’s now recorded in the audited annals of SEC history.\n\nIt’s also a target that will undoubtedly require more investment. The SpaceX filing’s “use of proceeds” section mentions an “expansion of our AI compute infrastructure.” Per the filing, xAI’s Colossus and Colossus II data centers — both of which came online in 122 days and 91 days, respectively — collectively provide about 1 gigawatt of compute power. These are both used for Grok’s training and inference. SpaceX claims that owning the compute infrastructure and vertically integrating across the AI stack lets them “train and iterate frontier models at lower cost and higher velocity.”\n\nAnother way that SpaceX might assuage investor fears about spending is by performing training and inference on orbital data centers, which Musk has promised to be a much cheaper alternative to terrestrial data centers. That sci-fi vision isn’t likely to happen for several years, though. The filing says SpaceX intends to begin deploying its orbital AI compute satellites as early as 2028 — the first concrete timeline set for such a launch.\n\n“The future of AI will be determined by control of the physical stack,” the filing reads.",
+      "score": 5.5
+    },
+    {
+      "id": "3e150cf9fcd81e6d52d4c24976a3fc86",
+      "title": "Demis Hassabis said this might be the ‘foothills of the singularity.’ What?",
+      "date": "2026-05-19T18:16:02-04:00",
+      "url": "https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis",
+      "summary": "After a couple of hours of apps and itineraries, Google’s big AI presentation turned philosophical After a couple of hours of apps and itineraries, Google’s big AI presentation turned philosophical",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Demis_GDM.OMNI_.AI-in-Real-World_3.jpg?quality=90&strip=all&crop=0%2C19.091304550468%2C100%2C61.817390899063&w=1200",
+      "source": "AI | The Verge",
+      "full_text": "After a couple of hours of apps and itineraries, Google’s big AI presentation turned philosophical.\n\nAfter a couple of hours of apps and itineraries, Google’s big AI presentation turned philosophical.",
+      "score": 5.3
+    },
+    {
       "id": "9881be7cc4aca3bdd570402f97eec908",
       "title": "Two AI-based science assistants succeed with drug-retargeting tasks",
       "date": "Tue, 19 May 2026 18:55:56 +0000",
@@ -1639,6 +1650,17 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/04/Claude-Design-2-Press-Logo-Claude-1920x1080-1.png?resize=1200,675",
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "full_text": "Anthropic announced on Friday that it’s launching Claude Design, a new experimental product that lets users create visuals like prototypes, slides, one-pagers, and more using Claude. The company says Claude Design is intended to help people like founders and product managers without a design background share their ideas more easily.\n\nWith Claude Design, users describe what they want, and Claude will create an initial version. From there, users can refine the visuals with direct edits or requests.\n\nFor example, you could ask Claude to “prototype a serene mobile meditation app. It should have calming typography, subtle nature-inspired colors, and a clean layout.”\n\nYou could then tweak the colors, the size of the typography, or ask Claude to add a dark mode toggle.\n\nWhile Claude Design may initially seem like it’s looking to compete with popular design app Canva, which has just expanded its own AI capabilities, Anthropic told TechCrunch that it’s intended to complement it rather than replace it. The company said its new product is built for people who aren’t starting from a design tool and need to get from an idea to something visual quickly.\n\nOnce teams create presentation decks or prototypes, they can export them as PDFs, URLs, PPTX files, or send them to Canva. Once in Canva, they are fully editable and collaborative, Anthropic says.\n\nClaude Design can also apply a team’s design system to every project it creates so that the results are consistent with the company’s overall visual style. Anthropic says Claude Design is able to do this by reading a company’s codebase and design files. Additionally, teams can refine these components and maintain more than one design system.\n\nThe new product is powered by Claude Opus 4.7 and is available in research preview for Claude Pro, Max, Team, and Enterprise subscribers.\n\nThe launch highlights Anthropic’s ongoing push into the enterprise and prosumer categories, as competition intensifies around AI workplace tools. In January, Anthropic rolled out Claude Cowork, an agentic assistant built for complex tasks. A few weeks later, the company brought agentic plug-ins to Cowork that are designed to automate specialized tasks within a company’s various departments.",
+      "score": 5.1
+    },
+    {
+      "id": "3c420b9acc3c2af69c2e84c467bc861b",
+      "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+      "date": "Thu, 21 May 2026 00:28:31 +0000",
+      "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
+      "summary": "Nvidia founder and CEO Jensen Huang is, perhaps, one of the greatest corporate hype men of all time when it comes to his company He may even surpass Salesforce’s Marc Benioff when it comes to relentless optimism in his company’s future and revenues Even so, he delivers on the hype, quarter after quarter Instead of cautioning you to view the proclamation that he’s found a “brand new $200 billion TAM for Nvidia” with skepticism, I’d argue he’s earned a bit of trust",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "full_text": "Nvidia founder and CEO Jensen Huang is, perhaps, one of the greatest corporate hype men of all time when it comes to his company. He may even surpass Salesforce’s Marc Benioff when it comes to relentless optimism in his company’s future and revenues.\n\nEven so, he delivers on the hype, quarter after quarter.\n\nInstead of cautioning you to view the proclamation that he’s found a “brand new $200 billion TAM for Nvidia” with skepticism, I’d argue he’s earned a bit of trust.\n\nHuang positioned this massive new market at the feet of Nvidia’s new CPU product, Vera, which was introduced in March. Speaking on Wednesday’s earnings call — after Nvidia posted another record-breaking quarter with $81.6 billion in revenue and forecast $91 billion for the next — Huang pitched Vera as a potentially transformative product. And one that already has promising sales figures.\n\nBut no matter how well Nvidia delivers, Wall Street harbors anxiety over what will knock Nvidia from its perch.\n\nLately, such fears have centered on the CPU. Nvidia is the king of the GPU, whereas historically the CPU markets were owned by companies like Intel and AMD. (Nvidia has made CPUs previously, of course, but that’s not its core business.)\n\nFor example, last month Amazon Web Services crowed about a giant contract it signed with Meta for millions of Amazon’s homegrown AI CPUs. Amazon CEO Andy Jassy has been clear that he thinks AWS can do AI chips, both GPUs and CPUs, at least as well, and possibly better than Nvidia.\n\nBut now, with the Vera CPU, which is sold alone and bundled with its Rubin GPU, Huang believes he’s unlocked “a major new growth driver” for his company because Vera is, he believes, “the world’s first CPU, purpose-built for agentic AI,” Huang said on the call.\n\n“Vera opens a brand new $200 billion TAM for Nvidia, a market we have never addressed before, and every major hyperscaler and system maker is partnering with us to deploy it. The world is rebuilding computing for agentic AI and robotic physical AI. Nvidia sits at the center of these transitions,” hype man Huang said.\n\nHe explained that while the “thinking” part of an AI model uses GPUs, agents mostly run on CPUs. They use CPUs to do their assigned tasks and will, he predicts, run their own form of CPU-driven PCs.\n\nVera is for agents because it’s specifically designed to process tokens as fast as possible. This is opposed to classic cloud architecture CPUs designed with “cores,” or the ability to run multiple instances of apps as fast as possible.\n\nThat sounds logical, but with the major cloud providers as well as startups pursuing AI chip development, what makes him think that Nvidia will be the go-to source for agentic CPUs?\n\nBecause, Huang says, Nvidia has already sold $20 billion worth of standalone Vera CPUs this year and we’re only at the beginning.\n\n“The world has a billion users, human users. My sense is that the world is going to have billions of agents, not today. I mean, we’re going to grow into it, but we’ll have billions of agents, and those billions of agents will all use tools. And those tools are going to be like PCs, just like us humans using using PCs today,” he said.\n\n“We’re going to need a lot more CPUs,” he explained.",
       "score": 5.1
     },
     {
@@ -2178,17 +2200,6 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "source": "AI | The Verge",
       "full_text": "Over 70 percent of Americans oppose AI data center construction in their area, according to a new Gallup survey. Just 7 percent said they were “strongly” in favor of new data centers. According to Gallup, data centers are so strongly disliked that Americans would prefer to live near a nuclear power plant than a data center — even at its peak, opposition to nuclear power plant construction topped out at 63 percent.\n\nGallup’s data is based on a March 2026 survey of 1,000 randomly selected American adults in all 50 US states and the District of Columbia, along with an April 2026 survey of 2,054 adults “who are members of the Gallup Panel.” Among those in opposition, 50 percent said data centers’ impact on resources like water and electricity was their top concern. A Pew Research survey published earlier this month similarly reported that 43 percent of Americans view data centers as a “major reason” for skyrocketing power bills.\n\nOpposition to new data center construction was strongest among Democrats at 75 percent, followed by 74 percent of independent voters and 63 percent of Republicans.\n\nQuality-of-life concerns, effects on cost of living, pollution, and negative views of AI were among other top reasons survey respondents weren’t in favor of data center construction in their area. For those who support new data centers, 55 percent said job opportunities were their main reason. Maine governor Janet Mills also cited jobs as her reason for vetoing an 18-month moratorium on new data center construction in her state earlier this year.",
-      "score": 4.6
-    },
-    {
-      "id": "7b759479cd50dc1a408478082c50a469",
-      "title": "Microsoft&#8217;s Edge Copilot update uses AI to pull information from across your tabs",
-      "date": "2026-05-13T18:04:28-04:00",
-      "url": "https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs",
-      "summary": "The new features include AI podcasts, summaries, and quizzes based on what you’re browsing The new features include AI podcasts, summaries, and quizzes based on what you’re browsing The Verge Daily\n\nA free daily digest of the news that matters most Email (required)\n\nBy submitting your email, you agree to our Terms and Privacy Notice",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24385267/STK148_Microsoft_Edge_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "AI | The Verge",
-      "full_text": "The new features include AI podcasts, summaries, and quizzes based on what you’re browsing.\n\nThe new features include AI podcasts, summaries, and quizzes based on what you’re browsing.\n\nThe Verge Daily\n\nA free daily digest of the news that matters most.\n\nEmail (required)\n\nBy submitting your email, you agree to our Terms and Privacy Notice. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.",
       "score": 4.6
     },
     {
@@ -3015,6 +3026,17 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "full_text": "Microsoft is testing ways to integrate OpenClaw-like features into its existing Microsoft 365 Copilot tool. The new features, which the company confirmed to The Information, would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent.\n\nOpenClaw is a tool that runs locally on a user’s computer and can create agents to perform tasks on behalf of the person. If Microsoft does come up with its own version of a Claw — meaning an agent that runs locally — the effort would join a number of other agentic tools the company has announced in the past few months.\n\nIn March, for instance, Microsoft announced Copilot Cowork, which is designed to take actions in Microsoft 365 apps, not just provide search results or chat in a separate work pane. Cowork is powered by its own “Work IQ” technology, an intelligence layer that tries to personalize Cowork for the user across Microsoft 365 apps.\n\nMicrosoft has also tapped Anthropic’s Claude to power Cowork, after it partnered with the AI lab late last year. Microsoft added Claude as an option available for Cowork. (While OpenClaw can work with multiple models, Claude remains the model of choice for many users of the open source project.) However, Cowork doesn’t run on the local hardware; it runs in the cloud.\n\nIn February, Microsoft also introduced Copilot Tasks, another agent designed to complete tasks, which was released at the time in preview. The marketing materials made this agent sound like it was geared more toward prosumers than enterprises, with tasks it should be allowed to handle ranging from organizing email (a Microsoft 365-like task) to organizing travel and appointments (tasks outside Microsoft’s Office suite of apps). This, however, also runs in the cloud.\n\nIt’s not clear yet whether this Claw would be local or if it would simply adopt some of the other features that OpenClaw advocates love. Microsoft did tell The Information that one of the main features of the agent is that it would essentially be a version of 365 Copilot that is always working, able to take actions at any time. The idea is an agent that can complete multistep tasks over long periods.\n\nWhile the open source project OpenClaw can run on Windows machines, the Mac Mini has been the go-to platform for OpenClaw users. So much so that the small, affordable, cube-shaped Mac Mini desktops have suddenly been selling like hotcakes. So, beyond security, Microsoft may have a number of motivations for wanting its own version.\n\nThe company is expected to show off this new Claw (or an upgraded version of one of its existing Claw-like tools) at its Microsoft Build conference in June, The Verge reports.\n\nWe’ve asked Microsoft how the new Claw agent fits in with these other agents and will update the story when we receive comment.",
       "score": 4.0
+    },
+    {
+      "id": "7b759479cd50dc1a408478082c50a469",
+      "title": "Microsoft&#8217;s Edge Copilot update uses AI to pull information from across your tabs",
+      "date": "2026-05-13T18:04:28-04:00",
+      "url": "https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs",
+      "summary": "The new features include AI podcasts, summaries, and quizzes based on what you’re browsing The new features include AI podcasts, summaries, and quizzes based on what you’re browsing The Verge Daily\n\nA free daily digest of the news that matters most Email (required)\n\nBy submitting your email, you agree to our Terms and Privacy Notice",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24385267/STK148_Microsoft_Edge_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "AI | The Verge",
+      "full_text": "The new features include AI podcasts, summaries, and quizzes based on what you’re browsing.\n\nThe new features include AI podcasts, summaries, and quizzes based on what you’re browsing.\n\nThe Verge Daily\n\nA free daily digest of the news that matters most.\n\nEmail (required)\n\nBy submitting your email, you agree to our Terms and Privacy Notice. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.",
+      "score": 3.8
     },
     {
       "id": "16b21f6976c6aa67eda01cf27f0c4ff8",
