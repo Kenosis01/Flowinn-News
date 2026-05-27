@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26T21:50:27.664285",
+  "updated_at": "2026-05-27T04:19:42.559140",
   "article_count": 458,
   "articles": [
     {
@@ -1961,17 +1961,6 @@
       "score": 4.6
     },
     {
-      "id": "3e150cf9fcd81e6d52d4c24976a3fc86",
-      "title": "Demis Hassabis said this might be the ‘foothills of the singularity.’ What?",
-      "date": "2026-05-19T18:16:02-04:00",
-      "url": "https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis",
-      "summary": "After a couple of hours of apps and itineraries, Google’s big AI presentation turned philosophical After a couple of hours of apps and itineraries, Google’s big AI presentation turned philosophical",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Demis_GDM.OMNI_.AI-in-Real-World_3.jpg?quality=90&strip=all&crop=0%2C19.091304550468%2C100%2C61.817390899063&w=1200",
-      "source": "AI | The Verge",
-      "full_text": "After a couple of hours of apps and itineraries, Google’s big AI presentation turned philosophical.\n\nAfter a couple of hours of apps and itineraries, Google’s big AI presentation turned philosophical.",
-      "score": 4.6
-    },
-    {
       "id": "c77b2f8aef4e5b6ff9a89182ceeea06d",
       "title": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses",
       "date": "Tue, 19 May 2026 20:00:48 +0000",
@@ -2949,6 +2938,17 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "full_text": "Microsoft is testing ways to integrate OpenClaw-like features into its existing Microsoft 365 Copilot tool. The new features, which the company confirmed to The Information, would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent.\n\nOpenClaw is a tool that runs locally on a user’s computer and can create agents to perform tasks on behalf of the person. If Microsoft does come up with its own version of a Claw — meaning an agent that runs locally — the effort would join a number of other agentic tools the company has announced in the past few months.\n\nIn March, for instance, Microsoft announced Copilot Cowork, which is designed to take actions in Microsoft 365 apps, not just provide search results or chat in a separate work pane. Cowork is powered by its own “Work IQ” technology, an intelligence layer that tries to personalize Cowork for the user across Microsoft 365 apps.\n\nMicrosoft has also tapped Anthropic’s Claude to power Cowork, after it partnered with the AI lab late last year. Microsoft added Claude as an option available for Cowork. (While OpenClaw can work with multiple models, Claude remains the model of choice for many users of the open source project.) However, Cowork doesn’t run on the local hardware; it runs in the cloud.\n\nIn February, Microsoft also introduced Copilot Tasks, another agent designed to complete tasks, which was released at the time in preview. The marketing materials made this agent sound like it was geared more toward prosumers than enterprises, with tasks it should be allowed to handle ranging from organizing email (a Microsoft 365-like task) to organizing travel and appointments (tasks outside Microsoft’s Office suite of apps). This, however, also runs in the cloud.\n\nIt’s not clear yet whether this Claw would be local or if it would simply adopt some of the other features that OpenClaw advocates love. Microsoft did tell The Information that one of the main features of the agent is that it would essentially be a version of 365 Copilot that is always working, able to take actions at any time. The idea is an agent that can complete multistep tasks over long periods.\n\nWhile the open source project OpenClaw can run on Windows machines, the Mac Mini has been the go-to platform for OpenClaw users. So much so that the small, affordable, cube-shaped Mac Mini desktops have suddenly been selling like hotcakes. So, beyond security, Microsoft may have a number of motivations for wanting its own version.\n\nThe company is expected to show off this new Claw (or an upgraded version of one of its existing Claw-like tools) at its Microsoft Build conference in June, The Verge reports.\n\nWe’ve asked Microsoft how the new Claw agent fits in with these other agents and will update the story when we receive comment.",
       "score": 4.0
+    },
+    {
+      "id": "3e150cf9fcd81e6d52d4c24976a3fc86",
+      "title": "Demis Hassabis said this might be the ‘foothills of the singularity.’ What?",
+      "date": "2026-05-19T18:16:02-04:00",
+      "url": "https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis",
+      "summary": "After a couple of hours of apps and itineraries, Google’s big AI presentation turned philosophical After a couple of hours of apps and itineraries, Google’s big AI presentation turned philosophical",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Demis_GDM.OMNI_.AI-in-Real-World_3.jpg?quality=90&strip=all&crop=0%2C19.091304550468%2C100%2C61.817390899063&w=1200",
+      "source": "AI | The Verge",
+      "full_text": "After a couple of hours of apps and itineraries, Google’s big AI presentation turned philosophical.\n\nAfter a couple of hours of apps and itineraries, Google’s big AI presentation turned philosophical.",
+      "score": 3.8
     },
     {
       "id": "9881be7cc4aca3bdd570402f97eec908",
