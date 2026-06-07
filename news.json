@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T04:26:29.723020",
+  "updated_at": "2026-06-07T10:32:33.604686",
   "article_count": 563,
   "articles": [
     {
@@ -1675,28 +1675,6 @@
       "score": 4.9
     },
     {
-      "id": "53d7ad006642ac2e6068010ec1ef4adf",
-      "title": "Amazon develops a warehouse robot workers can speak to",
-      "date": "2026-06-04T05:31:14-04:00",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
-      "summary": "The company insists its robot investments are designed to support, not replace, warehouse workers The company insists its robot investments are designed to support, not replace, warehouse workers",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/proteus.jpeg?quality=90&strip=all&crop=2.25%2C0%2C95.5%2C100&w=1200",
-      "source": "AI | The Verge",
-      "full_text": "The company insists its robot investments are designed to support, not replace, warehouse workers.\n\nThe company insists its robot investments are designed to support, not replace, warehouse workers.",
-      "score": 4.9
-    },
-    {
-      "id": "19a5c6ccb414817a61693e0b58f40998",
-      "title": "Amazon develops a warehouse robot that workers can speak to",
-      "date": "2026-06-04T05:31:14-04:00",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
-      "summary": "The company insists its robot investments are designed to support, not replace, warehouse workers The company insists its robot investments are designed to support, not replace, warehouse workers",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/proteus.jpeg?quality=90&strip=all&crop=2.25%2C0%2C95.5%2C100&w=1200",
-      "source": "AI | The Verge",
-      "full_text": "The company insists its robot investments are designed to support, not replace, warehouse workers.\n\nThe company insists its robot investments are designed to support, not replace, warehouse workers.",
-      "score": 4.9
-    },
-    {
       "id": "db3b046118d7a8d6d695297a918a932f",
       "title": "LLMs believe false statements even after explicit warnings that they're false",
       "date": "Thu, 28 May 2026 21:29:43 +0000",
@@ -3301,6 +3279,28 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "full_text": "Tubi, the Fox-owned streaming service, announced Tuesday the launch of its native app within ChatGPT, giving viewers an easier way to discover its large library of more than 300,000 movies and TV episodes.\n\nWhile competitors like Netflix and Amazon Prime Video have experimented with AI-powered recommendations within their own platforms, Tubi is the first major streaming service to build a dedicated experience directly inside ChatGPT.\n\nTo access the integration, users can install the Tubi app from the ChatGPT app store and begin by typing “@Tubi” in a prompt. From there, they can make natural-language requests like “a thriller for girls’ night” or “something funny,” and instantly receive curated recommendations tailored to their preferences, all linked back to titles available on Tubi.\n\nThe launch comes as competition across the streaming industry intensifies. With endless entertainment options, discovery has become a challenge for all platforms vying for limited viewer attention. Many streamers have even begun incorporating features inspired by social media platforms to keep users engaged, reflecting broader shifts in how audiences consume content.\n\nTubi’s move builds on earlier experiments with AI. In 2023, the company introduced “Rabbit AI,” a feature within its mobile app powered by ChatGPT that allowed users to ask specific questions and receive personalized recommendations. However, the tool was discontinued the following year.\n\nThe new ChatGPT integration suggests a strategic pivot: Instead of trying to replicate AI experiences in-house, Tubi is now meeting users where they’re already turning for answers. ChatGPT reached 900 million weekly active users in February. Tubi reports more than 100 million monthly active users.\n\nIn separate news, Tubi recently launched the “Creatorverse Incubator,” a new initiative aimed at supporting emerging content creators. The program offers promotional backing and potential funding opportunities for original shows that will debut exclusively on the platform.",
       "score": 4.4
+    },
+    {
+      "id": "53d7ad006642ac2e6068010ec1ef4adf",
+      "title": "Amazon develops a warehouse robot workers can speak to",
+      "date": "2026-06-04T05:31:14-04:00",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
+      "summary": "The company insists its robot investments are designed to support, not replace, warehouse workers The company insists its robot investments are designed to support, not replace, warehouse workers",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/proteus.jpeg?quality=90&strip=all&crop=2.25%2C0%2C95.5%2C100&w=1200",
+      "source": "AI | The Verge",
+      "full_text": "The company insists its robot investments are designed to support, not replace, warehouse workers.\n\nThe company insists its robot investments are designed to support, not replace, warehouse workers.",
+      "score": 4.2
+    },
+    {
+      "id": "19a5c6ccb414817a61693e0b58f40998",
+      "title": "Amazon develops a warehouse robot that workers can speak to",
+      "date": "2026-06-04T05:31:14-04:00",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
+      "summary": "The company insists its robot investments are designed to support, not replace, warehouse workers The company insists its robot investments are designed to support, not replace, warehouse workers",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/proteus.jpeg?quality=90&strip=all&crop=2.25%2C0%2C95.5%2C100&w=1200",
+      "source": "AI | The Verge",
+      "full_text": "The company insists its robot investments are designed to support, not replace, warehouse workers.\n\nThe company insists its robot investments are designed to support, not replace, warehouse workers.",
+      "score": 4.2
     },
     {
       "id": "43a1c14a59f6ffdc32337168c8c2a8ea",
