@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-10T04:14:47.397256",
-  "article_count": 601,
+  "updated_at": "2026-06-10T11:42:39.869524",
+  "article_count": 602,
   "articles": [
     {
       "id": "ecd230a8f2fd883919b2f61629b68dc2",
@@ -265,6 +265,17 @@
       "source": "AI | The Verge",
       "full_text": "OpenAI is beefing up its agentic coding and development system, Codex, with a suite of updates that let it use your computer, generate images, and remember from past experiences. The package of updates comes as OpenAI’s rivalry with Anthropic intensifies, following the stellar successes of Claude Code and OpenAI aggressively shifting resources to catch up.\n\nCodex will now be able to operate desktop apps on your computer, OpenAI says in a blog post announcing the update. It can work in the background, meaning it won’t interfere with your own work in other apps, and multiple agents can work in parallel. For developers, OpenAI says, “this is helpful for testing and iterating on frontend changes, testing apps, or working in apps that don’t expose an API.”\n\nThe feature will start rolling out to Codex desktop app users signed in with ChatGPT today and will initially be limited to macOS. OpenAI did not indicate a timeline for when use will expand to other operating systems. EU users will also have to wait, it said, adding that the update will roll out to users there “soon.”\n\nCodex is also getting the ability to generate and iterate on images with gpt-image-1.5, new plug-ins for tools like GitLab, Atlassian Rovo, and Microsoft Suite, and native web browsing through an in-app browser, “where you can comment directly on pages to provide precise instructions to the agent.” OpenAI also said it will be easier to automate tasks, with users able to reuse existing conversation threads and Codex now able to schedule future work for itself and wake up automatically to continue on a long-term task.\n\nCodex will also be getting a memory feature, allowing it to remember useful context from past experience, such as personal preferences, corrections, and information that took time to gather. OpenAI said it hopes the opt-in feature, which will be released as a preview, will help complete future tasks faster and to a quality that previously required detailed custom instructions. The personalization features will roll out to Enterprise, Edu, and EU users “soon.”",
       "score": 7.2
+    },
+    {
+      "id": "3946477564c7722a22a6a3e07cdc8534",
+      "title": "Artificial Intelligence Sneaks Into the World Cup Thanks to Google Gemini",
+      "date": "Wed, 10 Jun 2026 10:00:00 +0000",
+      "url": "https://www.wired.com/story/artificial-intelligence-sneaks-into-the-world-cup-thanks-to-google-gemini/",
+      "summary": "Why Soccer Still Defies Statistical Analysis\n\nSarah Rudd, who once ran analytics for Arsenal, made her name applying the tenets of probability theory to movements on the pitch Even she admits not everything can be solved with data Google Makes It Easy to Deepfake Yourself\n\nGoogle’s overhaul of its AI creation software, Flow, includes a new video model and a tool for generating selfie videos called avatars Flush With Cash From OpenAI, Opal Is Making an AI-Powered Audio Gadget\n\nOpal, the company famous for making a fancy webcam, has pivoted to making other consumer electronics",
+      "image": "https://media.wired.com/photos/6a26f2821d5621d5724e9dd9/master/pass/Artificial-Intelligence-Sneaks-into-World-Cup-2279691552.jpg",
+      "source": "Feed: Artificial Intelligence Latest",
+      "full_text": "Why Soccer Still Defies Statistical Analysis\n\nSarah Rudd, who once ran analytics for Arsenal, made her name applying the tenets of probability theory to movements on the pitch. Even she admits not everything can be solved with data.\n\nGoogle Makes It Easy to Deepfake Yourself\n\nGoogle’s overhaul of its AI creation software, Flow, includes a new video model and a tool for generating selfie videos called avatars.\n\nFlush With Cash From OpenAI, Opal Is Making an AI-Powered Audio Gadget\n\nOpal, the company famous for making a fancy webcam, has pivoted to making other consumer electronics. Fueled by big investments from OpenAI and Samsung, it’s working on an audio gadget first.\n\nGreg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up\n\nOpenAI is once again reorganizing its executive ranks as part of its effort to unify ChatGPT and Codex into one core product experience.\n\nThe Top New Features in Apple’s iOS 27 and iPadOS 27\n\nApple took the wraps off iOS 27 at its WWDC event, and the iPhone update is chock-full of smart upgrades, with a big focus on improvements to Siri.\n\nMira Murati Wants Her AI to ‘Keep Humans in the Loop’\n\nThe Thinking Machines Lab founder and former CTO of OpenAI tells WIRED she isn’t interested in automating people out of jobs. Instead, she’s building AI that can collaborate.\n\nDemis Hassabis Thinks AI Job Cuts Are Dumb\n\nThe CEO of Google DeepMind tells WIRED that companies should use the productivity gains of AI to do more, not lay people off.\n\nWhy the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation\n\nPope Leo’s first encyclical marks an unprecedented alliance between the Church and Silicon Valley.\n\nEverything Announced at Google I/O 2026\n\nGoogle is sprucing up its Gemini models, revamping search, and enabling AI agents in everything. There are also some spiffy new smart glasses coming this fall.\n\nEven If You Hate AI, You Will Use Google AI Search\n\nThe search giant’s AI-crafted answers are so convenient, you’ll be sucked in—to the detriment of the web and the artists and thinkers behind it.\n\nAll Vehicles Sold in the EU Must Be Able to Hook Up to a Breathalyzer\n\nThe measure is part of a European Union–led strategy to eliminate all drunk-driving-related deaths and injuries by 2050.",
+      "score": 7.0
     },
     {
       "id": "6c9ffd6f1a42b1759357ac8c8e89f237",
@@ -2555,39 +2566,6 @@
       "score": 4.6
     },
     {
-      "id": "e2b03fcb64a317f1c0ca7efdcdc1b3b4",
-      "title": "AI has a water problem. Google thinks it has a fix",
-      "date": "2026-06-03T05:00:00-04:00",
-      "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
-      "summary": "The company promises to replenish more water than it uses by 2030 The company promises to replenish more water than it uses by 2030",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "AI | The Verge",
-      "full_text": "The company promises to replenish more water than it uses by 2030.\n\nThe company promises to replenish more water than it uses by 2030.",
-      "score": 4.6
-    },
-    {
-      "id": "cb203e53ba9f027378e27c22944fac9d",
-      "title": "Google must let publishers opt out of AI Search features, rules UK",
-      "date": "2026-06-03T04:45:48-04:00",
-      "url": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
-      "summary": "Website owners can also prevent their content from being used to ‘fine-tune’ Google’s AI models Website owners can also prevent their content from being used to ‘fine-tune’ Google’s AI models",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS487_ANTITRUST_2__STK093_GOOGLE.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "AI | The Verge",
-      "full_text": "Website owners can also prevent their content from being used to ‘fine-tune’ Google’s AI models.\n\nWebsite owners can also prevent their content from being used to ‘fine-tune’ Google’s AI models.",
-      "score": 4.6
-    },
-    {
-      "id": "fbf6d0473d042ac1fa8bea2121b68570",
-      "title": "AI has a water problem — Google thinks it has a fix",
-      "date": "2026-06-03T05:00:00-04:00",
-      "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
-      "summary": "The company promises to replenish more water than it uses by 2030 The company promises to replenish more water than it uses by 2030 The Verge Daily\n\nA free daily digest of the news that matters most Email (required)\n\nBy submitting your email, you agree to our Terms and Privacy Notice",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "source": "AI | The Verge",
-      "full_text": "The company promises to replenish more water than it uses by 2030.\n\nThe company promises to replenish more water than it uses by 2030.\n\nThe Verge Daily\n\nA free daily digest of the news that matters most.\n\nEmail (required)\n\nBy submitting your email, you agree to our Terms and Privacy Notice. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.",
-      "score": 4.6
-    },
-    {
       "id": "961e6b6aa55d03885ed2d382bf5fe27b",
       "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
       "date": "Mon, 01 Jun 2026 21:35:00 +0000",
@@ -3763,6 +3741,39 @@
       "source": "AI News & Artificial Intelligence | TechCrunch",
       "full_text": "Microsoft is testing ways to integrate OpenClaw-like features into its existing Microsoft 365 Copilot tool. The new features, which the company confirmed to The Information, would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent.\n\nOpenClaw is a tool that runs locally on a user’s computer and can create agents to perform tasks on behalf of the person. If Microsoft does come up with its own version of a Claw — meaning an agent that runs locally — the effort would join a number of other agentic tools the company has announced in the past few months.\n\nIn March, for instance, Microsoft announced Copilot Cowork, which is designed to take actions in Microsoft 365 apps, not just provide search results or chat in a separate work pane. Cowork is powered by its own “Work IQ” technology, an intelligence layer that tries to personalize Cowork for the user across Microsoft 365 apps.\n\nMicrosoft has also tapped Anthropic’s Claude to power Cowork, after it partnered with the AI lab late last year. Microsoft added Claude as an option available for Cowork. (While OpenClaw can work with multiple models, Claude remains the model of choice for many users of the open source project.) However, Cowork doesn’t run on the local hardware; it runs in the cloud.\n\nIn February, Microsoft also introduced Copilot Tasks, another agent designed to complete tasks, which was released at the time in preview. The marketing materials made this agent sound like it was geared more toward prosumers than enterprises, with tasks it should be allowed to handle ranging from organizing email (a Microsoft 365-like task) to organizing travel and appointments (tasks outside Microsoft’s Office suite of apps). This, however, also runs in the cloud.\n\nIt’s not clear yet whether this Claw would be local or if it would simply adopt some of the other features that OpenClaw advocates love. Microsoft did tell The Information that one of the main features of the agent is that it would essentially be a version of 365 Copilot that is always working, able to take actions at any time. The idea is an agent that can complete multistep tasks over long periods.\n\nWhile the open source project OpenClaw can run on Windows machines, the Mac Mini has been the go-to platform for OpenClaw users. So much so that the small, affordable, cube-shaped Mac Mini desktops have suddenly been selling like hotcakes. So, beyond security, Microsoft may have a number of motivations for wanting its own version.\n\nThe company is expected to show off this new Claw (or an upgraded version of one of its existing Claw-like tools) at its Microsoft Build conference in June, The Verge reports.\n\nWe’ve asked Microsoft how the new Claw agent fits in with these other agents and will update the story when we receive comment.",
       "score": 4.0
+    },
+    {
+      "id": "e2b03fcb64a317f1c0ca7efdcdc1b3b4",
+      "title": "AI has a water problem. Google thinks it has a fix",
+      "date": "2026-06-03T05:00:00-04:00",
+      "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
+      "summary": "The company promises to replenish more water than it uses by 2030 The company promises to replenish more water than it uses by 2030",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "AI | The Verge",
+      "full_text": "The company promises to replenish more water than it uses by 2030.\n\nThe company promises to replenish more water than it uses by 2030.",
+      "score": 3.8
+    },
+    {
+      "id": "cb203e53ba9f027378e27c22944fac9d",
+      "title": "Google must let publishers opt out of AI Search features, rules UK",
+      "date": "2026-06-03T04:45:48-04:00",
+      "url": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
+      "summary": "Website owners can also prevent their content from being used to ‘fine-tune’ Google’s AI models Website owners can also prevent their content from being used to ‘fine-tune’ Google’s AI models",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS487_ANTITRUST_2__STK093_GOOGLE.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "AI | The Verge",
+      "full_text": "Website owners can also prevent their content from being used to ‘fine-tune’ Google’s AI models.\n\nWebsite owners can also prevent their content from being used to ‘fine-tune’ Google’s AI models.",
+      "score": 3.8
+    },
+    {
+      "id": "fbf6d0473d042ac1fa8bea2121b68570",
+      "title": "AI has a water problem — Google thinks it has a fix",
+      "date": "2026-06-03T05:00:00-04:00",
+      "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
+      "summary": "The company promises to replenish more water than it uses by 2030 The company promises to replenish more water than it uses by 2030 The Verge Daily\n\nA free daily digest of the news that matters most Email (required)\n\nBy submitting your email, you agree to our Terms and Privacy Notice",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "source": "AI | The Verge",
+      "full_text": "The company promises to replenish more water than it uses by 2030.\n\nThe company promises to replenish more water than it uses by 2030.\n\nThe Verge Daily\n\nA free daily digest of the news that matters most.\n\nEmail (required)\n\nBy submitting your email, you agree to our Terms and Privacy Notice. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.",
+      "score": 3.8
     },
     {
       "id": "cb30e6395ae7a3d9030071beb20317d4",
