@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T09:43:06.641525",
+  "updated_at": "2026-07-11T13:38:40.369619",
   "article_count": 750,
   "articles": [
     {
@@ -385,17 +385,6 @@
       "image": "https://media.wired.com/photos/6a4d6e8fe06236b4d104fe30/master/pass/Meta-Lets-Anyone-Use-Your-Instagram-Photos-in-AI-Images-Gear-2268477073.jpg",
       "source": "Feed: Artificial Intelligence Latest",
       "full_text": "Here’s How to Opt Out of Google Search’s New AI Data Training Feature\n\nGoogle’s Search history update stores media uploads from your interactions, like images used in reverse image searches, for training its AI models.\n\nApple’s Camera Chief Thinks AI Can Give You Superpowers\n\nThe generative features in iOS 27’s new Photos app will add fake pixels to some of your shots, but Apple’s Jon McCormack says the company isn’t using AI “for the sake of AI.”\n\n28 Tips to Take Your ChatGPT Prompts to the Next Level\n\nSure, anyone can use OpenAI’s chatbot. But with smart engineering, you can get way more interesting results.\n\nApple’s iPhone Camera App Is Getting an AI Upgrade in iOS 27\n\nSiri is now directly embedded into the camera app, and there are more artificial intelligence tools in the Photos app to alter your images.\n\nEverything Apple Announced Today at WWDC 2026\n\nUpdates include a new souped-up Siri, lots of iOS enhancements, and some inkling on how an AI partnership with Google has come to power Apple’s products.\n\nThe Top New Features in Apple’s iOS 27 and iPadOS 27\n\nApple took the wraps off iOS 27 at its WWDC event, and the iPhone update is chock-full of smart upgrades, with a big focus on improvements to Siri.\n\nThe Top New Features Coming to MacOS 27 Golden Gate\n\nApple has announced the latest version of macOS. It’s all about the reintroduction of Siri, which is now accessible from anywhere on the Mac desktop.\n\nApple’s New Siri AI Is Ready to Get Personal\n\nFrom a stand-alone app to a Google Gemini partnership, here’s everything you need to know from WWDC 2026 about Apple’s upcoming overhaul of Siri.\n\nWhere NASA Posts Its Best Space Photos, and How to Find Them\n\nExplore decades of incredible images and videos of stars, planets, moons, and galaxies—most of which are free to use and share.\n\nI Let Siri AI Show Me Around San Francisco\n\nThe new Siri AI is conversational, omnipresent, and actually helpful.\n\nUsernames Are Coming to WhatsApp Soon. Here's How to Reserve Yours\n\nEven if you only use WhatsApp sometimes, you might want to snag your username now to stop giving out your phone number.",
-      "score": 6.6
-    },
-    {
-      "id": "f1ae72ebc80d3485994dca953a32caaf",
-      "title": "Your gaming data could be the secret to AGI, according to this Bezos-backed startup",
-      "date": "Wed, 08 Jul 2026 13:00:00 +0000",
-      "url": "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/",
-      "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes Models like ChatGPT and Claude are great at text, but they’re less skilled at understanding how things actually move through space and time — an essential skill for producing intelligence that generalizes That gap, it turns out, might be filled by gaming data That’s the bet behind General Intuition, a Bezos-backed, New York-based startup valued at $2",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/10/general_intuition_announcement_hero.png?resize=1200,982",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "full_text": "When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes. Models like ChatGPT and Claude are great at text, but they’re less skilled at understanding how things actually move through space and time — an essential skill for producing intelligence that generalizes. That gap, it turns out, might be filled by gaming data. That’s the bet behind General Intuition, a Bezos-backed, New York-based startup valued at $2.3 billion that just closed a $320 million round with Coatue, Eric Schmidt, and researchers at MIT and Google DeepMind joining its list of investors.\n\nOn this episode of TechCrunch’s Equity podcast, General Intuition CEO Pim de Witte joins Rebecca Bellan to dig into why world models trained on gaming data might be the next big leap in physical AI, how the company spun out of gaming platform Medal TV, and where the ethical red lines are when your models could end up being used for defense applications.\n\nListen to the full episode to hear more about:\n\nHow eight minutes of real-world data was enough to get a robot navigating an office cold.\n\nWhy General Intuition turned down an acquisition offer reportedly from OpenAI to stay independent, and why having investors who back your mission is essential to building a generational company.\n\nHow the company is trying to get ahead of AI job displacement by building Nerve, a marketplace connecting gamers to data labeling and teleoperations work.",
       "score": 6.6
     },
     {
@@ -1464,6 +1453,17 @@
       "source": "AI | The Verge",
       "full_text": "The feature, announced on Tuesday, received significant backlash.\n\nThe feature, announced on Tuesday, received significant backlash.",
       "score": 6.1
+    },
+    {
+      "id": "f1ae72ebc80d3485994dca953a32caaf",
+      "title": "Your gaming data could be the secret to AGI, according to this Bezos-backed startup",
+      "date": "Wed, 08 Jul 2026 13:00:00 +0000",
+      "url": "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/",
+      "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes Models like ChatGPT and Claude are great at text, but they’re less skilled at understanding how things actually move through space and time — an essential skill for producing intelligence that generalizes That gap, it turns out, might be filled by gaming data That’s the bet behind General Intuition, a Bezos-backed, New York-based startup valued at $2",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/10/general_intuition_announcement_hero.png?resize=1200,982",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "full_text": "When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes. Models like ChatGPT and Claude are great at text, but they’re less skilled at understanding how things actually move through space and time — an essential skill for producing intelligence that generalizes. That gap, it turns out, might be filled by gaming data. That’s the bet behind General Intuition, a Bezos-backed, New York-based startup valued at $2.3 billion that just closed a $320 million round with Coatue, Eric Schmidt, and researchers at MIT and Google DeepMind joining its list of investors.\n\nOn this episode of TechCrunch’s Equity podcast, General Intuition CEO Pim de Witte joins Rebecca Bellan to dig into why world models trained on gaming data might be the next big leap in physical AI, how the company spun out of gaming platform Medal TV, and where the ethical red lines are when your models could end up being used for defense applications.\n\nListen to the full episode to hear more about:\n\nHow eight minutes of real-world data was enough to get a robot navigating an office cold.\n\nWhy General Intuition turned down an acquisition offer reportedly from OpenAI to stay independent, and why having investors who back your mission is essential to building a generational company.\n\nHow the company is trying to get ahead of AI job displacement by building Nerve, a marketplace connecting gamers to data labeling and teleoperations work.",
+      "score": 5.9
     },
     {
       "id": "946f5ddece09a754e2a118825ef4eb52",
