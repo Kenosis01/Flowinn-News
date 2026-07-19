@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T06:35:08.227114",
+  "updated_at": "2026-07-19T09:56:10.327664",
   "article_count": 750,
   "articles": [
     {
@@ -828,17 +828,6 @@
       "score": 6.6
     },
     {
-      "id": "542bb8c477e68e423fb0c9db9ea0d592",
-      "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
-      "date": "Sat, 18 Jul 2026 09:00:00 +0000",
-      "url": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
-      "summary": "You Can Now Sound the Alarm on AI Behaving Badly\n\nAre you worried your AI chatbot is trying to build a bomb or leak personal information about you There’s a website for that LastPass Users Had Their Data Stolen—Again\n\nPlus: Former national security advisor John Bolton pleads guilty in classified-materials case, Microsoft helps take down major infostealer infrastructure, and more A Critical Deadline Is Approaching for Windows and Linux Security\n\nThe cryptographic keys that secure your computer’s boot sequence will start to expire on June 24",
-      "image": "https://media.wired.com/photos/6a5a67417083bdea755dfcd2/master/pass/Security_AIInjection-v1.gif",
-      "source": "Feed: Artificial Intelligence Latest",
-      "full_text": "You Can Now Sound the Alarm on AI Behaving Badly\n\nAre you worried your AI chatbot is trying to build a bomb or leak personal information about you? There’s a website for that.\n\nLastPass Users Had Their Data Stolen—Again\n\nPlus: Former national security advisor John Bolton pleads guilty in classified-materials case, Microsoft helps take down major infostealer infrastructure, and more.\n\nA Critical Deadline Is Approaching for Windows and Linux Security\n\nThe cryptographic keys that secure your computer’s boot sequence will start to expire on June 24. Here’s what that means for you.\n\nHow People in China Keep Outsmarting Anthropic’s Geolocation Restrictions\n\nAs Anthropic tightens restrictions on access to Claude in China, users keep finding new workarounds, from proxy services to fake identities sourced on Telegram.\n\nMeta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs\n\nHundreds of contractors working on a project for Meta pretended to be kids in order to see how other chatbots like Gemini and ChatGPT would respond to high-risk subjects, WIRED found.\n\nI Met With China’s Top AI Experts. They’re Freaking Out, Too\n\nThe AI arms race between China and the US has researchers on both sides worried about a “Chernobyl moment.”\n\nChina Defies US Restrictions and Builds the World’s Fastest Supercomputer\n\nThe Chinese supercomputer LineShine was ranked as the fastest in the world, despite not using any GPUs.\n\nOpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos\n\nAmid concerns about AI models’ cybersecurity capabilities, OpenAI revealed an improved version of GPT-5.5-Cyber and its “Patch the Planet” initiative to fix open-source software bugs.\n\nSatellite Images Show the Destruction Caused by Venezuela's Twin Earthquakes\n\nThe maps and images show the extent of destruction and give rescue operations a tool to find any remaining survivors.\n\nWhat Happens if China Hacks the US Water Supply? I Went to a Secret War Game to Find Out\n\nBurst water mains. Evacuated hospitals. In a closed-door simulation, insurers played out their response to a mass disruption by China’s Volt Typhoon hackers—and found a nightmare scenario.\n\nMeta Exposed Data Internally From Its Controversial Employee-Tracking Program\n\nEmployees had previously raised concerns about the initiative, which involves collecting workers’ keystroke data to train AI models.",
-      "score": 6.6
-    },
-    {
       "id": "bd266ef778473fbc762fbb522c9c0c0c",
       "title": "Apple’s plot to crush OpenAI",
       "date": "2026-07-17T13:41:32-04:00",
@@ -1398,6 +1387,17 @@
       "source": "AI | The Verge",
       "full_text": "Attorney General James Uthmeier says ChatGPT has been ‘linked to criminal behavior.’\n\nAttorney General James Uthmeier says ChatGPT has been ‘linked to criminal behavior.’",
       "score": 6.1
+    },
+    {
+      "id": "542bb8c477e68e423fb0c9db9ea0d592",
+      "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
+      "date": "Sat, 18 Jul 2026 09:00:00 +0000",
+      "url": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
+      "summary": "You Can Now Sound the Alarm on AI Behaving Badly\n\nAre you worried your AI chatbot is trying to build a bomb or leak personal information about you There’s a website for that LastPass Users Had Their Data Stolen—Again\n\nPlus: Former national security advisor John Bolton pleads guilty in classified-materials case, Microsoft helps take down major infostealer infrastructure, and more A Critical Deadline Is Approaching for Windows and Linux Security\n\nThe cryptographic keys that secure your computer’s boot sequence will start to expire on June 24",
+      "image": "https://media.wired.com/photos/6a5a67417083bdea755dfcd2/master/pass/Security_AIInjection-v1.gif",
+      "source": "Feed: Artificial Intelligence Latest",
+      "full_text": "You Can Now Sound the Alarm on AI Behaving Badly\n\nAre you worried your AI chatbot is trying to build a bomb or leak personal information about you? There’s a website for that.\n\nLastPass Users Had Their Data Stolen—Again\n\nPlus: Former national security advisor John Bolton pleads guilty in classified-materials case, Microsoft helps take down major infostealer infrastructure, and more.\n\nA Critical Deadline Is Approaching for Windows and Linux Security\n\nThe cryptographic keys that secure your computer’s boot sequence will start to expire on June 24. Here’s what that means for you.\n\nHow People in China Keep Outsmarting Anthropic’s Geolocation Restrictions\n\nAs Anthropic tightens restrictions on access to Claude in China, users keep finding new workarounds, from proxy services to fake identities sourced on Telegram.\n\nMeta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs\n\nHundreds of contractors working on a project for Meta pretended to be kids in order to see how other chatbots like Gemini and ChatGPT would respond to high-risk subjects, WIRED found.\n\nI Met With China’s Top AI Experts. They’re Freaking Out, Too\n\nThe AI arms race between China and the US has researchers on both sides worried about a “Chernobyl moment.”\n\nChina Defies US Restrictions and Builds the World’s Fastest Supercomputer\n\nThe Chinese supercomputer LineShine was ranked as the fastest in the world, despite not using any GPUs.\n\nOpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos\n\nAmid concerns about AI models’ cybersecurity capabilities, OpenAI revealed an improved version of GPT-5.5-Cyber and its “Patch the Planet” initiative to fix open-source software bugs.\n\nSatellite Images Show the Destruction Caused by Venezuela's Twin Earthquakes\n\nThe maps and images show the extent of destruction and give rescue operations a tool to find any remaining survivors.\n\nWhat Happens if China Hacks the US Water Supply? I Went to a Secret War Game to Find Out\n\nBurst water mains. Evacuated hospitals. In a closed-door simulation, insurers played out their response to a mass disruption by China’s Volt Typhoon hackers—and found a nightmare scenario.\n\nMeta Exposed Data Internally From Its Controversial Employee-Tracking Program\n\nEmployees had previously raised concerns about the initiative, which involves collecting workers’ keystroke data to train AI models.",
+      "score": 5.9
     },
     {
       "id": "373b7ca1af528a610dc1ad3ecb96b63d",
