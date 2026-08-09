@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T05:10:18.692861",
+  "updated_at": "2026-08-09T08:50:11.941449",
   "article_count": 750,
   "articles": [
     {
@@ -7098,17 +7098,6 @@
       "score": 4.0
     },
     {
-      "id": "e948c8e543fa8a3b271d61b39c3b625d",
-      "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
-      "date": "Sun, 02 Aug 2026 06:37:27 +0000",
-      "url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
-      "summary": "New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “disclosure fatigue.”",
-      "image": "https://media.wired.com/photos/6a6caf7dd48647a2296aebb5/master/pass/073126_Europeans%20Are%20About%20to%20See%20How%20Entrenched%20AI%20Is%20in%20Their%20Daily%20Lives.gif",
-      "source": "Feed: Artificial Intelligence Latest",
-      "full_text": null,
-      "score": 4.0
-    },
-    {
       "id": "e75c400b3946f473ed1393781a28a287",
       "title": "Anthropic launches Opus 5",
       "date": "Fri, 24 Jul 2026 17:00:00 +0000",
@@ -8251,6 +8240,17 @@
       "source": "AI | The Verge",
       "full_text": "How newsrooms should use AI — or if they should at all — has been a recurrent debate within the media industry over the last several years. Increasingly, these rules are being hammered out at the bargaining table between unions and publishers. Right now, employees at The New York Times are gearing up for a fight.\n\nUnionized staff with the Tech Guild say Times management has refused to provide the union with information related to how the company has used AI, its plans for AI use in the future, and how it will affect employees’ jobs and workflow. (The union filed an unfair labor practice charge earlier this month.) The Tech Guild, a NewsGuild of New York unit of around 700 software engineers, designers, product and project managers, and data analysts, also filed grievances saying Times management violated their collective bargaining agreement when it started using two internal AI tools that track and evaluate employee performance and activity.\n\nOne of the AI tools, called DX, advertises itself as an engineering productivity tool that lets companies track employees’ output, generative AI use, and efficiency, among other metrics. DX was originally announced internally as a way to improve the developer experience, says Ben Harnett, a software engineer at the Times and chair of the unit’s generative AI committee. The goal, at least according to Times management, was to measure the company as a whole. Over the last few months, though, the DX data has become more personalized, with benchmarks being applied to individuals, Harnett says.\n\n“Now people in disciplinary situations are suddenly having read back to them, ‘You only did one [pull request] per week, per whatever, and that’s 25 percent below industry standard,’” Harnett says. He is concerned that the blanket metrics flatten all work the unit members do and erase the nuance of engineering into an opaque set of metrics that can be used against staff in disciplinary or performance review settings. The metrics don’t correlate to quality of work or the actual number of features an employee delivers, Harnett says.\n\n“All this [data] reasonably could be expected to … help us understand how we’re doing, but not the way that they’re using it and implementing it, which we think is amounting to a de facto quota,” Harnett told The Verge. DX statistics have been cited in recent disciplinary conversations, the Tech Guild says.\n\n“We feel really [this] amounts to deploying surveillance and monitoring tech against the workers.”\n\nAnother software called Glean takes internal knowledge bases like wikis, GitHub documents, Google Docs, and emails, and allows employees to query the system to find what they’re looking for more easily. But there are concerns among employees that Glean can also be used to monitor workers because it pulls in vast amounts of internal documentation: Harnett says that if he’s working on a draft document to describe a feature he’s building or leaves a comment in a file that’s available in Glean, for example, a manager could query the tool about his individual performance or contributions. The Tech Guild told The Verge that the style and format of recent disciplinary notices sent to staff suggest they were generated using Glean. Harnett says that Glean has issues — namely that it generates falsehoods and can lead a user on “wild goose chases.”\n\n“The way that they’re using [DX and Glean] we feel really amounts to deploying surveillance and monitoring tech against the workers,” Harnett says. The union believes that the use of these tools violates multiple parts of their contract, including protections around privacy and monitoring, job descriptions, and requirements for notifying employees and bargaining with them.\n\nBoth the Tech Guild and the Times Guild (which represents 1,500 editorial, ad sales, and support staff at the Times) filed unfair labor practice charges against the Times, saying that company violated labor law by refusing to respond to their requests for information around AI use at the outlet.\n\nThe Times did not respond to specific questions about how it uses DX and Glean, but spokesperson Danielle Rhoades Ha said in an email that the company disagrees with the characterizations made in grievances and that it would respond as part of its “normal contractual process.”\n\n“Likewise, we will respond to this Request for Information (RFI) in due course as we’ve done with 80+ other RFIs from the Guild in recent years,” Rhoades Ha said.\n\nThe Times Guild is currently bargaining a new contract, pushing for robust protections against AI, like requirements that a human is behind any AI tool being used, that any journalism utilizing AI is transparently labeled, and that staff are compensated for AI model training deals the company might make. The Times deploys artificial intelligence tools for some reporting, like using it to parse millions of documents related to Jeffrey Epstein or scan satellite images of Gaza to try to find where Israel had dropped a specific kind of bomb.\n\nJournalists across the industry are in the process of negotiating union contracts, and AI is one of the most urgent issues at stake. In April, 150 unionized employees at ProPublica walked off the job for 24 hours; one of the key sticking points with management was how AI would be used and disclosed to audiences. After McClatchy, the company that publishes newspapers like the Miami Herald and The Sacramento Bee, started rolling out a generative AI tool that spits out different versions of stories, some staff withheld their bylines in protest.\n\nHarnett emphasizes that the unit’s position is not that AI shouldn’t ever be used, but that workers should have a say in how it’s deployed. Metrics like how many tokens an employee uses or how often they’re using AI to do their jobs create pressure to do more and incentives that don’t align with doing quality work.\n\n“It’s going to distract [you] from actually doing a good job, which is what we think the company should want,” he says.",
       "score": 3.8
+    },
+    {
+      "id": "e948c8e543fa8a3b271d61b39c3b625d",
+      "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
+      "date": "Sun, 02 Aug 2026 06:37:27 +0000",
+      "url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
+      "summary": "New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “disclosure fatigue.”",
+      "image": "https://media.wired.com/photos/6a6caf7dd48647a2296aebb5/master/pass/073126_Europeans%20Are%20About%20to%20See%20How%20Entrenched%20AI%20Is%20in%20Their%20Daily%20Lives.gif",
+      "source": "Feed: Artificial Intelligence Latest",
+      "full_text": null,
+      "score": 3.2
     }
   ]
 }
